@@ -10,3 +10,7 @@ Hereglesen Technologiud:
 ### Neg localhost-d baigaa heden ch hun zereg togloh bolomjtoi. 
 ### Busad toglogchdiin change log-iig real time harah bolomjtoi.
 ### Game logic ni flex grow shrink ashiglaj hiisn.
+
+
+turshij uzehiig husvel: 
+npm i && npm start
